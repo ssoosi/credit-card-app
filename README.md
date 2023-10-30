@@ -1,4 +1,4 @@
-# Getting Started with Credit Card Check App
+# Credit Card Check App
 
 ## Available Scripts
 
