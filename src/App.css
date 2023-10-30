@@ -1,7 +1,11 @@
+html {
+  background-color: #deeefd;
+}
 .App {
   text-align: center;
   width: 50%;
   margin: auto;
+  margin-top: 50px;
 }
 
 

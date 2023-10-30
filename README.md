@@ -48,3 +48,8 @@ countries.
 • Display all the credit cards that have been captured during the session.
 • Don’t capture the same card twice.
 
+## Banned Countries
+The banned countries I have set are the following:
+
+ const bannedCountries = ['South Africa', 'France']; // Add your banned countries here.
+
